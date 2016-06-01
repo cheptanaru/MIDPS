@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:"http://schemas.android.com/apk/res/android" package="air.spidergame" android:versionCode="1000000" android:versionName="1.0.0">
+    <application android:label="spidergame" android:icon="@drawable/icon">
+        <activity android:theme="@*android:style/Theme.NoTitleBar" android:label="spidergame" android:name=".AppEntry" android:launchMode="singleTask" android:screenOrientation="nosensor" android:configChanges="keyboardHidden|orientation" android:windowSoftInputMode="18">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <meta-data android:name="aspectRatio" android:value="portrait" />
+            <meta-data android:name="autoOrients" android:value="false" />
+            <meta-data android:name="fullScreen" android:value="true" />
+            <meta-data android:name="uniqueappversionid" android:value="5f8561df-b2a3-48ec-ad5b-e0c0560a8425" />
+            <meta-data android:name="initialcontent" android:value="spidergame.swf" />
+        </activity>
+    </application>
+    <uses-sdk android:minSdkVersion="8" android:targetSdkVersion="5" />
+    <uses-permission android:name="android.permission.INTERNET" />
+</manifest>

@@ -1,0 +1,33 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: assets/META-INF/AIR/application.xml
+SHA1-Digest: 9X9ix8J7AT0A18Nxa5JHBTgl8H4=
+
+Name: assets/jocmemotimer.swf
+SHA1-Digest: pl+4kTXSuTWghpaOP+Q3l/OuToQ=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 0aVagN3+CiLttm0p7tvGjwcFGwM=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: ROgStvzipGS+OvwhNDS+W0Feulc=
+
+Name: lib/armeabi-v7a/libNativeABI.so
+SHA1-Digest: 0AJBzFQr/W3tEOPuSpDhMgNqd8U=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: ROgStvzipGS+OvwhNDS+W0Feulc=
+
+Name: assets/iconita.png
+SHA1-Digest: ROgStvzipGS+OvwhNDS+W0Feulc=
+
+Name: resources.arsc
+SHA1-Digest: UpTpHAVXwS3p0FIQ4SSRLaOvsDA=
+
+Name: classes.dex
+SHA1-Digest: o4MeMlxxruPO7ZAP2B2kHoHCYm8=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: ROgStvzipGS+OvwhNDS+W0Feulc=
+

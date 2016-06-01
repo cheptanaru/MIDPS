@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:"http://schemas.android.com/apk/res/android" package="air.jocmemotimer" android:versionCode="1000000" android:versionName="1.0.0">
+    <application android:label="jocmemotimer" android:icon="@drawable/icon">
+        <activity android:theme="@*android:style/Theme.NoTitleBar" android:label="jocmemotimer" android:name=".AppEntry" android:launchMode="singleTask" android:screenOrientation="nosensor" android:configChanges="keyboardHidden|orientation" android:windowSoftInputMode="18">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <meta-data android:name="aspectRatio" android:value="landscape" />
+            <meta-data android:name="autoOrients" android:value="false" />
+            <meta-data android:name="fullScreen" android:value="true" />
+            <meta-data android:name="uniqueappversionid" android:value="59cccc97-f3dc-4bec-bfee-cdd6b1bd6f0f" />
+            <meta-data android:name="initialcontent" android:value="jocmemotimer.swf" />
+        </activity>
+    </application>
+    <uses-sdk android:minSdkVersion="8" android:targetSdkVersion="5" />
+    <uses-permission android:name="android.permission.INTERNET" />
+</manifest>

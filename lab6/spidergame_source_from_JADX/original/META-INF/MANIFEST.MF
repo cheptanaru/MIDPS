@@ -1,0 +1,33 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: assets/spidergame.swf
+SHA1-Digest: YskuUufkXLCRJ/cEebdq7aIH5zg=
+
+Name: assets/META-INF/AIR/application.xml
+SHA1-Digest: c0BPwqvEyxHOexVsZ2VWf0J/Ltw=
+
+Name: AndroidManifest.xml
+SHA1-Digest: geTYjofnfMKKXWX/x2P5ZqMFJJI=
+
+Name: res/drawable-ldpi/icon.png
+SHA1-Digest: I3FDO/yYIl1oTOfPF9YjnOMbStw=
+
+Name: lib/armeabi-v7a/libNativeABI.so
+SHA1-Digest: 0AJBzFQr/W3tEOPuSpDhMgNqd8U=
+
+Name: res/drawable-mdpi/icon.png
+SHA1-Digest: I3FDO/yYIl1oTOfPF9YjnOMbStw=
+
+Name: resources.arsc
+SHA1-Digest: UpTpHAVXwS3p0FIQ4SSRLaOvsDA=
+
+Name: classes.dex
+SHA1-Digest: eJb6ymGMRzCF9MY7GdrrXQ6H+XU=
+
+Name: assets/iconitaa.png
+SHA1-Digest: I3FDO/yYIl1oTOfPF9YjnOMbStw=
+
+Name: res/drawable-hdpi/icon.png
+SHA1-Digest: I3FDO/yYIl1oTOfPF9YjnOMbStw=
+
